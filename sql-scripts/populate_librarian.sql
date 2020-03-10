@@ -1,0 +1,10 @@
+INSERT INTO librarian VALUES
+	( 201800002,'111','111','111','111');
+	
+INSERT INTO librarian VALUES
+	( 201800003,'110','110','110','110');
+	
+INSERT INTO librarian VALUES
+	( 201800004,'000','000','000','000');
+    
+COMMIT;
